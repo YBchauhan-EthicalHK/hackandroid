@@ -2,6 +2,7 @@
 Once the payload is executed, it establishes a connection back to the attacker's system, allowing the attacker to interact with the target system and perform various actions, such as uploading and downloading files, capturing keystrokes, and taking screenshots.
 # All important Commands With Working
 # 1.Msfvenom
+`go`
 msfvenom is a command line utility that is part of the Metasploit Framework, which is a tool used for penetration testing and security assessments. The msfvenom utility is used to generate payloads, which are small programs or scripts that can be used to exploit a vulnerability in a target system. These payloads can be used to gain unauthorized access to a system, execute arbitrary code, or establish a remote shell connection to the target system.
 
 Msfvenom can generate a variety of payloads for different platforms such as Windows, Linux, and Android. It can also encode the payloads to evade detection by endpoint security products and can also encrypt the communication between the attacker and the target.
